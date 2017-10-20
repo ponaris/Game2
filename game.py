@@ -101,7 +101,7 @@ def print_room(room):
     Informatics reception. The receptionist, Matt Strangis,
     seems to be playing an old school text-based adventure
     game on his computer. There are corridors leading to the
-    south and east. The exit is to the west.
+    south and east. The exit is to the west.Your aim is to find the pen and take it to your tutor
     <BLANKLINE>
     There is a pack of biscuits, a student handbook here.
     <BLANKLINE>
